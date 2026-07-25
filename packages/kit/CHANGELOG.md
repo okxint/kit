@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 3.0.0-next.13
+
+### Patch Changes
+
+- perf: use a `Set` to check element ids when validating fragment links during prerendering ([#16494](https://github.com/sveltejs/kit/pull/16494))
+
 ## 3.0.0-next.12
 
 ### Major Changes
